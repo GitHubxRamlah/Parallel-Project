@@ -52,9 +52,9 @@ int main()
 
   // Print employees and their working hours
   cout << endl
-       << "\t";
+       << "\t \t";
   for (int i = 0; i < days; i++)
-    cout << Days[i] << "\t";
+    cout << Days[i] << "\t ";
   cout << endl;
 
   for (int i = 0; i < numEmployees; i++)
