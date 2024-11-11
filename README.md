@@ -1,6 +1,6 @@
-# Parallel Project | Parallelism of Employee Working Hours Management System 
+# Parallelism of Employee Working Hours Management System 
 
-This program analyzes employee working hours over a week, calculating the total hours worked each day and identifying the day with the highest and lowest total working hours. The code includes both **sequential** and **parallelized** implementations, enabling performance comparisons on large datasets.
+Our program analyzes employee working hours over a week, calculating the total hours worked each day and identifying the day with the highest and lowest total working hours. The code includes both **sequential** and **parallelized** implementations, enabling performance comparisons on large datasets.
 
 ## Features
 
